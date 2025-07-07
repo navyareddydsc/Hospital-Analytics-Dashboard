@@ -25,6 +25,7 @@ Welcome to the **Hospital Analytics Dashboard**, a powerful healthcare business 
   - 3 dimension tables:
     - `Hospital_List`, `Department_List`, `Doctor_List`
 - All joins created in SQL before importing to Power BI via CSVs
+  ![ERD](ERD)
 
 ---
 
@@ -50,19 +51,24 @@ Welcome to the **Hospital Analytics Dashboard**, a powerful healthcare business 
 - Avg Cost, Revenue, and Satisfaction (Bar Charts)
 - Top-performing Departments by various KPIs
 - Filterable by Department or Hospital
-- ![Department Performance](Department Performanca.png)
+![Department Performance](Department%20Performance.png)
+
 
 ### 3.  Patient Demographics
 - Gender and Age Group Distribution
 - Insurance Type by Demographics
 - Age Group-wise Hospital Comparisons
 - Total Patient Count (Card)
+![Patients Demographics](Patients%20Demographics.png)
+
 
 ### 4.  Doctor Readmission Analysis
 - Readmission Rate vs Doctor (Scatter Plot)
 - Total Cases and Readmission Count (Cards)
 - Readmission Rate (Line/Bar)
 - Doctor-wise Breakdown with Filters
+![Doctor Readmission](Doctor%20Readmission%20.png)
+
 
 ### 5.  Hospital Trends
 - Revenue by Month (Line Chart)
@@ -70,6 +76,8 @@ Welcome to the **Hospital Analytics Dashboard**, a powerful healthcare business 
 - Avg Length of Stay by Month
 - Readmission Breakdown by Month (Stacked Column)
 - Month-Year Slicer
+![Hospital Trends](Hospital%20Trends.png)
+
 
 ---
 
@@ -105,17 +113,6 @@ Welcome to the **Hospital Analytics Dashboard**, a powerful healthcare business 
   - Aggregate metrics for KPI Summary and Departmental views
   - Format readmission metrics and monthly groupings
 - Exported query outputs as CSVs for Power BI import
-
----
-
-## 📷 Screenshots
-
-### 🔹 Hospital Performance Overview
-![overview](screenshots/hospital_overview.png)
-
-### 🔹 Hospital Trends Dashboard
-![trends](screenshots/hospital_trends.png)
-
 ---
 
 ## 🎯 Project Outcome
