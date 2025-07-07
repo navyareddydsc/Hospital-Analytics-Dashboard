@@ -43,7 +43,7 @@ Welcome to the **Hospital Analytics Dashboard**, a powerful healthcare business 
 - Revenue by Hospital (Bar Chart)
 - Satisfaction Score by Department
 - Insurance Type Distribution (Donut Chart)
-- ![Hospital performance](Hospital_Performance.png)
+- ![Hospital performance](Hospital Performance.png)
 
 ### 2.  Department Performance
 - Avg Cost, Revenue, and Satisfaction (Bar Charts)
