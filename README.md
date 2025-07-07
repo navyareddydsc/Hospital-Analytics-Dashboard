@@ -141,15 +141,11 @@ This project highlights my proficiency in combining **SQL, DAX, Power BI, and da
 
 ---
 
-## 👤 Created by
+## Created by
 
 **Navya M**  
-📍 Data Analyst | Power BI Developer  
+Data Analyst | Power BI Developer  
 📧 mnavya392002@gmail.com  
 
----
 
-## 📌 Tags
-
-`Power BI` `SQL` `Healthcare Analytics` `Dashboard` `Hospital KPIs` `Data Modeling` `DAX` `Business Intelligence` `Readmission Rate` `Satisfaction Score`
 
