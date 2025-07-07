@@ -30,9 +30,9 @@ Welcome to the **Hospital Analytics Dashboard**, a powerful healthcare business 
 
 ##  Data Sources
 
-- 📄 **MySQL**: Data pre-joined and cleaned using SQL queries
-- 📄 **CSV Files**: Output views exported and used in Power BI
-- 🧼 Preprocessed in Power Query for renaming, formatting, and relationship building
+-  **MySQL**: Data pre-joined and cleaned using SQL queries
+-  **CSV Files**: Output views exported and used in Power BI
+-  Preprocessed in Power Query for renaming, formatting, and relationship building
 
 ---
 
@@ -49,6 +49,7 @@ Welcome to the **Hospital Analytics Dashboard**, a powerful healthcare business 
 - Avg Cost, Revenue, and Satisfaction (Bar Charts)
 - Top-performing Departments by various KPIs
 - Filterable by Department or Hospital
+- ![Department Performance](Department Performanca.png)
 
 ### 3.  Patient Demographics
 - Gender and Age Group Distribution
