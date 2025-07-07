@@ -25,7 +25,7 @@ Welcome to the **Hospital Analytics Dashboard**, a powerful healthcare business 
   - 3 dimension tables:
     - `Hospital_List`, `Department_List`, `Doctor_List`
 - All joins created in SQL before importing to Power BI via CSVs
-  ![ERD](ERD)
+  ![ERD](ERD.png)
 
 ---
 
